@@ -1,7 +1,7 @@
 # Logistics-Analysis-Powerbi
 ---
 This project analyzes logistics performance across different shipping modes (Jets, Bus, Lorry, and Motorbike), focusing on shipment completion rate, in-progress shipments, shipment value, and delivery time to uncover insights and improve operational efficiency.
-![Dashboard](Log.Dashboard.png)
+![Dashboard](Log.Dasboard.png)
 
 ## Table of Content 
 - [Introduction](#Introduction)
@@ -306,9 +306,9 @@ This report is splitted into three (3) key sections :
 - **Shipment Performance by Shipping Mode**
 - **Customer Experience Metrics**
 
-![Dashboard](Page_1.PNG)
-![Dashboard](Page_2.PNG)
-![Dashboard](Page_3.PNG)
+![Dashboard](Log.Page1.PNG)
+![Dashboard](Log.Page2.PNG)
+![Dashboard](Log.Page3.PNG)
 
 
 [Back to Top](#-table-of-contents)
@@ -320,7 +320,7 @@ This report is splitted into three (3) key sections :
 
 This section highlights key performance metrics across shipment completion, operational efficiency, customer satisfaction, and shipment distribution.
 
-![Dashboard](Page_1.PNG)
+![Dashboard](Log.Page1.PNG)
 
 **Completed Shipments**
 
@@ -372,7 +372,7 @@ Improving efficiency, especially for high-priority deliveries and lower-performi
 
 This section analyzes how different shipping modes perform across shipment volume, priority distribution, and regional activity.
 
-![Dashboard](Page_2.PNG)
+![Dashboard](Log.Page2.PNG)
 
 **✈ Jet Shipments**
 
@@ -439,7 +439,7 @@ Optimizing how these modes are deployed across regions will be key to improving 
 
 This section evaluates how customer type, delivery performance, shipment value, and operational factors influence overall customer satisfaction.
 
-![Dashboard](Page_3.PNG)
+![Dashboard](Log.Page3.PNG)
 
 
 **Customer Type Insights**
