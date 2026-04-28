@@ -1,7 +1,7 @@
 # Logistics-Analysis-Powerbi
 ---
 This project analyzes logistics performance across different shipping modes (Jets, Bus, Lorry, and Motorbike), focusing on shipment completion rate, in-progress shipments, shipment value, and delivery time to uncover insights and improve operational efficiency.
-![Dashboard](Logistics_dashboard.png)
+![Dashboard](Log.Dashboard.png)
 
 ## Table of Content 
 - [Introduction](#Introduction)
