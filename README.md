@@ -553,6 +553,11 @@ By addressing operational inefficiencies and optimizing resource allocation, the
 
 ## About Me
 
+- I transform complex data into clear, actionable insights.
+Using analytics, machine learning, and visualization, I help you understand trends, improve efficiency, and plan for the future.
+
+Connect with me @https://www.linkedin.com/in/adetokunbo-olasupo-70aa042a1
+
 [Back to Top](#-table-of-contents)
 
 ---
